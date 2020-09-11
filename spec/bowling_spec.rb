@@ -1,5 +1,4 @@
-class Bowling
-end
+require './lib/bowling'
 
 
 RSpec.describe Bowling do
